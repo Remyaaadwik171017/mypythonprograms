@@ -1,0 +1,1 @@
+Class Book:   Def setvalue( self, library_name,book_name,author,pages)       Self.library_name=library_name       Self.book_name=book_name       Self.author=author       Self.pages=pages Def printvalue():    Print(self.library_name,self.book_name,self.author,self.pages)Ob= Book()Ob.setvalue("jaihind library","An Autobiography","Jawaharlal Nehru",245)Ob.printvalue()
